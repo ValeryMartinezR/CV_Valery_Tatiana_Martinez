@@ -28,7 +28,7 @@
 - Promoción de productos para Impulsadores y Mercaderistas
 - Exel Avanzado
 - Representante de ventas y comercialización
-### **Universidad de los Andes** _(2024 CURSO)
+### **Universidad de los Andes** (2024 CURSO)
 - Competencias tácticas
 ## 💡 Habilidades
 - **Creatividad e innovación**
