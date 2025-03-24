@@ -5,7 +5,6 @@
 **Profesión:** Tecnólogo Gestión de Mercados
 
 ## 📞 Contacto
-- **Teléfono:** +57 311 572 3607
 - **Email:** [martinezvalery303@gmail.com](mailto:martinezvalery303@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
